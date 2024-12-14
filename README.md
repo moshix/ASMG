@@ -64,6 +64,6 @@ Documentation
 Documentation on how to use this assembler can be found here: http://www.bitsavers.org/pdf/univOfWaterloo/V2L7_ASMG_University_of_Waterloo_Assembler_G_Usage_Guide_10th_ed_197606.pdf
 
 
-Moshix, May 5, 2024  
-New Foundland
+Moshix, January 2025 
+Whidbey Island, WA
 
